@@ -9,8 +9,8 @@
   <url>http://maven.apache.org</url>
   <!-- # Java Version, JUnit5 Version, UTF-8 Encoding -->
   <properties>
-    <maven.compiler.source>8</maven.compiler.source>
-    <maven.compiler.target>8</maven.compiler.target>
+    <maven.compiler.source>11</maven.compiler.source>
+    <maven.compiler.target>11</maven.compiler.target>
     <junit.jupiter.version>5.8.1</junit.jupiter.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>

@@ -1,0 +1,1 @@
+# maven project for learning jpa and hibernate using postgresql
